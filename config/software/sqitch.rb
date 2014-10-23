@@ -1,11 +1,11 @@
 name "sqitch"
-default_version "0.973"
+default_version "0.990"
 
 dependency "perl"
 dependency "cpanminus"
 
 source :url => "http://www.cpan.org/authors/id/D/DW/DWHEELER/App-Sqitch-#{version}.tar.gz",
-       :md5 => "0994e9f906a7a4a2e97049c8dbaef584"
+       :md5 => "98c1321ade3590cf909df8f5530684e5"
 
 relative_path "App-Sqitch-#{version}"
 
